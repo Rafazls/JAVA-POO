@@ -10,7 +10,7 @@ public class Product {
         this.quantity += quantity;
     }
     public void RemoveProducts(int quantity) {
-      this.quantity -= quantity;
+        this.quantity -= quantity;
 
     }
     public String toString(){
