@@ -6,6 +6,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
+        //Instanciação de classe e criação de  construtures.
+
         Scanner sc = new Scanner(System.in);
         Entities ent = new Entities();
         System.out.print("Enter account number: ");

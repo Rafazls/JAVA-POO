@@ -34,6 +34,6 @@ public class Entities {
         this.id = Id;
     }
     public String toString(){
-        return id+ ", " +name+ ", "+salary +"\n";
+        return id+ ",   " +name+ ", "+salary +"\n";
     }
 }
