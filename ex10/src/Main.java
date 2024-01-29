@@ -41,11 +41,7 @@ public class Main {
             OrderItem item = new OrderItem(quantity,new Product(productName, productPrice));
             order.addItem(item);
         }
-
         System.out.println("ORDER SUMMARY: ");
         System.out.print(order);
-
-
-
     }
 }
